@@ -1,4 +1,5 @@
 # This program adds two numbers
+# สุดหล่อเข้ามาแก้โค้ดหรอจ๊ะ
 
 num1 = 1.5
 num2 = 6.3
